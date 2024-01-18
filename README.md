@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm byeco</h1>
+[![Hi 👋, I'm byeco](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Meow!+I'm+a+programmer+cat+%F0%9F%98%B8)](https://git.io/typing-svg)
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
