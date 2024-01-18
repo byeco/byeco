@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm byeco</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
+<img src="https://api.statusbadges.me/badge/status/828247413771993109?style=for-the-badge" alt="status"><img src="https://api.statusbadges.me/badge/vscode/828247413771993109?style=for-the-badge" alt="vscode"><a href="https://api.statusbadges.me/openspotify/828247413771993109" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/828247413771993109?style=for-the-badge" alt="spotify"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
