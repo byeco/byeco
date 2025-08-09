@@ -10,11 +10,11 @@
     </a>
   </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">My Projects</h3>
 <p align="center">
-<a href="https://www.youtube.com/@byeco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="byeco" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Gf7PVTDDsJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Gf7PVTDDsJ" height="30" width="40" /></a>
+  <a href="" target="blank"> <img src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" width="256" height="256" alt="icon" /></a>
 </p>
+
 
 <h3 align="center">Languages:</h3>
 
