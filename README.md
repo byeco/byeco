@@ -1,25 +1,28 @@
-<h1 align="center">Hi , I'm Byeco</h1>
-<h3 align="center">A passionate front-end developer from Turkey</h3>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4393F7&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Byeco+👋;+I'm+a+Frontend+Developer.;+I'm+a+Music+Producer.;+Releasing+music+as+BYE.;+Tech+enthusiast+and+coder." alt="SVG typing" />
 
-<div align="center" class="badge-container">
-    <img src="https://api.statusbadges.me/badge/status/828247413771993109?style=for-the-badge" alt="status">
-    <img src="https://api.statusbadges.me/badge/vscode/828247413771993109?style=for-the-badge" alt="vscode">
-    <a href="https://api.statusbadges.me/openspotify/828247413771993109" target="_blank" rel="noopener">
-      <img src="https://api.statusbadges.me/badge/spotify/828247413771993109?style=for-the-badge" alt="spotify">
-    </a>
-  </div>
+<br />
 
-<h3 align="center">My Projects</h3>
-<p align="center">
-  <a href="" target="blank"> <img src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" width="256" height="256" alt="icon" /></a>
+---
+
+### <img width="189" height="43" alt="Tech Stack" src="https://github.com/user-attachments/assets/7800c71e-82f3-4052-91cc-550c02c9f11c" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,github,vscode,figma" />
 </p>
 
+---
 
-<h3 align="center">Languages:</h3>
+### <img width="247" height="36" alt="Projects" src="https://github.com/user-attachments/assets/9d362fea-20b1-483b-aaf9-9092aaba87d6" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=byeco&show_icons=true&locale=en&layout=compact" alt="byeco" /></p>
+<p>
+ <a href="https://github.com/byeco" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" width="150" style="border-radius: 20px;" alt="project-icon" />
+  </a>
+     <a href="https://open.spotify.com/intl-tr/track/2SpYEPSmuE8MhHDFTiX2SS?si=87e7aa26904f4545" target="_blank">
+    <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a3417eed-54c0-4805-8d32-e88fa0371cd8" />
+     </a>
+</p>
 
-<h3 align="center">Stats:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byeco&show_icons=true&locale=en" alt="byeco" /></p>
+</div>
