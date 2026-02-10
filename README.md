@@ -17,7 +17,7 @@
 ### <img width="247" height="36" alt="Projects" src="https://github.com/user-attachments/assets/9d362fea-20b1-483b-aaf9-9092aaba87d6" />
 
 <p>
- <a href="https://github.com/byeco" target="_blank">
+ <a href="https://github.com/nostge/moodi" target="_blank">
     <img src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" width="150" style="border-radius: 20px;" alt="project-icon" />
   </a>
      <a href="https://open.spotify.com/intl-tr/track/2SpYEPSmuE8MhHDFTiX2SS?si=87e7aa26904f4545" target="_blank">
