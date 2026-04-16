@@ -9,7 +9,7 @@
 ### <img width="189" height="43" alt="Tech Stack" src="https://github.com/user-attachments/assets/7800c71e-82f3-4052-91cc-550c02c9f11c" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,typescript,tailwind,bun,git,github,vscode,figma" />
 </p>
 
 ---
