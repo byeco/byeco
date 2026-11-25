@@ -88,8 +88,8 @@
         <span style="color: #8B949E; font-size: 13px;">Architectural Planning, Metrage & Calculation Tool</span><br />
       </td>
       <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
-        <a href="https://github.com/byeco/ui-cloner" target="_blank">
-          <img width="120" height="120" alt="UI Cloner Icon" src="https://raw.githubusercontent.com/byeco/ui-cloner/main/public/icon.ico" style="border-radius: 18px;" />
+        <a href="https://github.com/byeco/UI-Cloner" target="_blank">
+          <img width="120" height="120" alt="UI Cloner Icon" src="https://raw.githubusercontent.com/byeco/UI-Cloner/main/public/ICON/icon.png" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">UI Cloner</b>
@@ -98,7 +98,7 @@
       </td>
       <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
         <a href="https://github.com/byeco/ElfSec" target="_blank">
-          <img width="120" height="120" alt="ElfSec Icon" src="https://raw.githubusercontent.com/byeco/ElfSec/main/public/icon.ico" style="border-radius: 18px;" />
+          <img width="120" height="120" alt="ElfSec Icon" src="https://raw.githubusercontent.com/byeco/ElfSec/main/extension/icons/icon128.png" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">ElfSec</b>
@@ -109,7 +109,7 @@
     <tr>
       <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
         <a href="https://byeco.com.tr" target="_blank">
-          <img width="120" height="120" alt="byeco.com.tr icon" src="https://byeco.com.tr/favicon.ico" style="border-radius: 18px;" />
+          <img width="120" height="120" alt="byeco.com.tr icon" src="https://www.google.com/s2/favicons?domain=byeco.com.tr&sz=128" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">byeco.com.tr</b>
@@ -118,7 +118,7 @@
       </td>
       <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
         <a href="https://github.com/byeco/nostge" target="_blank">
-          <img width="120" height="120" alt="nostge.net logo" src="https://nostge.net/favicon.ico" style="border-radius: 18px;" />
+          <img width="120" height="120" alt="nostge.net logo" src="https://www.google.com/s2/favicons?domain=nostge.net&sz=128" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">nostge.net</b>
