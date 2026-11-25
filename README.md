@@ -13,8 +13,8 @@
   <a href="mailto:bye@nostge.net" target="_blank">
     <img src="https://img.shields.io/badge/Contact-bye@nostge.net-161b22?style=for-the-badge&logo=minutemailer&logoColor=white&border_color=30363D" alt="Email" />
   </a>
-  <a href="https://nostge.net" target="_blank">
-    <img src="https://img.shields.io/badge/Platform-nostge.net-161b22?style=for-the-badge&logo=googlechrome&logoColor=white&border_color=30363D" alt="nostge.net" />
+  <a href="https://byeco.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Website-byeco.com.tr-161b22?style=for-the-badge&logo=googlechrome&logoColor=white&border_color=30363D" alt="byeco.com.tr" />
   </a>
   <a href="https://bionluk.com/byeco" target="_blank">
     <img src="https://img.shields.io/badge/Freelance-Bionluk-161b22?style=for-the-badge&logo=freelancer&logoColor=white&border_color=30363D" alt="Freelance" />
@@ -78,32 +78,61 @@
   <!-- Projeler Tablosu -->
   <table align="center" style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 900px;">
     <tr>
-      <td align="center" width="33%" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
-        <a href="https://github.com/byeco/calthera" target="_blank">
-          <img width="150" height="150" alt="CalThera Logo" src="https://github.com/user-attachments/assets/9814f32b-903b-4a67-b4f7-7669029e3eb0" style="border-radius: 18px;" />
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://github.com/byeco/CalThera" target="_blank">
+          <img width="120" height="120" alt="CalThera Logo" src="https://github.com/user-attachments/assets/9814f32b-903b-4a67-b4f7-7669029e3eb0" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">CalThera</b>
         <br /><br />
-        <span style="color: #8B949E; font-size: 13px;">Digital Architecture & Metrage Tool</span><br />
+        <span style="color: #8B949E; font-size: 13px;">Architectural Planning, Metrage & Calculation Tool</span><br />
       </td>
-      <td align="center" width="33%" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
-        <a href="https://nostge.net" target="_blank">
-          <img width="150" height="150" alt="nostge.net logo" src="https://via.placeholder.com/150x150/0D1117/4393F7?text=nostge.net" style="border-radius: 18px;" />
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://github.com/byeco/ui-cloner" target="_blank">
+          <img width="120" height="120" alt="UI Cloner Icon" src="https://raw.githubusercontent.com/byeco/ui-cloner/main/public/icon.ico" style="border-radius: 18px;" />
+        </a>
+        <br /><br />
+        <b style="font-size: 16px;">UI Cloner</b>
+        <br /><br />
+        <span style="color: #8B949E; font-size: 13px;">DOM & Style Inspector for React, Tailwind & CSS</span><br />
+      </td>
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://github.com/byeco/ElfSec" target="_blank">
+          <img width="120" height="120" alt="ElfSec Icon" src="https://raw.githubusercontent.com/byeco/ElfSec/main/public/icon.ico" style="border-radius: 18px;" />
+        </a>
+        <br /><br />
+        <b style="font-size: 16px;">ElfSec</b>
+        <br /><br />
+        <span style="color: #8B949E; font-size: 13px;">Security & Content Filtering Tool</span><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://byeco.com.tr" target="_blank">
+          <img width="120" height="120" alt="byeco.com.tr icon" src="https://byeco.com.tr/favicon.ico" style="border-radius: 18px;" />
+        </a>
+        <br /><br />
+        <b style="font-size: 16px;">byeco.com.tr</b>
+        <br /><br />
+        <span style="color: #8B949E; font-size: 13px;">Personal Hub & Developer Showcase</span><br />
+      </td>
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://github.com/byeco/nostge" target="_blank">
+          <img width="120" height="120" alt="nostge.net logo" src="https://nostge.net/favicon.ico" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">nostge.net</b>
         <br /><br />
-        <span style="color: #8B949E; font-size: 13px;">Developer Ecosystem Platform</span><br />
+        <span style="color: #8B949E; font-size: 13px;">Developer Ecosystem & Opportunities Hub</span><br />
       </td>
-      <td align="center" width="33%" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
-        <a href="https://github.com/nostge/moodi" target="_blank">
-          <img width="150" height="150" alt="moodi icon" src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" style="border-radius: 18px;" />
+      <td align="center" width="33%" valign="top" bgcolor="#161b22" style="border: 1px solid #30363D; border-radius: 24px; padding: 25px;">
+        <a href="https://github.com/byeco/moodi" target="_blank">
+          <img width="120" height="120" alt="moodi icon" src="https://github.com/user-attachments/assets/b28a1fd0-d665-494f-9acf-725ae9b9f65b" style="border-radius: 18px;" />
         </a>
         <br /><br />
         <b style="font-size: 16px;">moodi</b>
         <br /><br />
-        <span style="color: #8B949E; font-size: 13px;">Skeuomorphic iOS Experience</span><br />
+        <span style="color: #8B949E; font-size: 13px;">Virtual Pet App for Couples</span><br />
       </td>
     </tr>
   </table>
